@@ -1,6 +1,6 @@
 # js-homework
 
-# javascript 과제
+## javascript 과제
 
-## 1. [네이버 로그인 창](https://github.com/jisulee97/js-homework/tree/main/mission01/naver_login)
-## 2. [엘리멘탈 포스터 페이지]
+### 1. [네이버 로그인 창](https://github.com/jisulee97/js-homework/tree/main/mission01/naver_login)
+### 2. [엘리멘탈 포스터 페이지]
