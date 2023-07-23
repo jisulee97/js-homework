@@ -145,4 +145,5 @@ function audioPlay(name) {
 }
 ```
 
-- `new AudioPlayer` 라는 생성자 함수를 만든 후 `audio` 라는 변수에 할당 후 `audio.js` 파일에서 asset 의 값을 변경시
+- `audio.js` 파일의 `AudioPlayer` 클래스 안에 `source` 값을 `new AudioPlayer` 의
+  `assets/audio/${name.toLowerCase()}.m4a` 로 받아와서 넣어줌. 이때 `name` 은 대문자이기 때문에 `toLowerCase` 를 통해 소문자로 전환해줌
